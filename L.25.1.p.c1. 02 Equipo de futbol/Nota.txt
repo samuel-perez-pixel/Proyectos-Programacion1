@@ -1,0 +1,2 @@
+Nota: Hay un error en donde dice que el porcentaje de juegos ganados
+deberia ser de 66.6%. Pues ya verifiqué y si es 71.42
