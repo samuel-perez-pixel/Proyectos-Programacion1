@@ -16,7 +16,7 @@ import Cl_Persona from "./Cl_Persona.js";
 import Cl_Conjunto from "./Cl_Conjunto.js";
 
 // OBJETOS PERSONAS 
-let per1=new Cl_Persona('Luis',15,);
+let per1=new Cl_Persona('Luis',15);
 let per2= new Cl_Persona('Ana',19);  
 let per3= new Cl_Persona('José',21);
 let per4= new Cl_Persona('Carmen',17);    
